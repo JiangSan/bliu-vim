@@ -87,21 +87,25 @@
 [submodule "bundle/vim-l9"]
 	path = bundle/vim-l9
 	url = git://github.com/vim-scripts/L9.git
+	 ignore = untracked
 [submodule "bundle/FuzzyFinder"]
 	path = bundle/FuzzyFinder
 	url = git://github.com/vim-scripts/FuzzyFinder.git
+	ignore = untracked
 [submodule "bundle/rename.vim"]
 	path = bundle/rename.vim
 	url = git://github.com/danro/rename.vim.git
 [submodule "bundle/git-vim"]
 	path = bundle/git-vim
 	url = git://github.com/motemen/git-vim.git
+	ignore = untracked
 [submodule "bundle/mru.vim"]
 	path = bundle/mru.vim
 	url = git://github.com/vim-scripts/mru.vim.git
 [submodule "bundle/matchit.zip"]
 	path = bundle/matchit.zip
 	url = https://github.com/vim-scripts/matchit.zip.git
+	ignore = untracked
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
@@ -117,3 +121,4 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git://github.com/msanders/snipmate.vim.git
+	ignore = untracked
